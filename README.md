@@ -30,7 +30,7 @@
 </ul>
 <div align="center">
   <strong>Key Metrics by Format & Platform</strong><br>
-  <img src="ott/1.gif" alt="Top 5 based on Genre and Tag" width="600" height="338" >
+  <img src="ott/1.gif" alt="Top 5 based on Genre and Tag" style="width: 50%; height: auto; >
 </div>
 
 <h3 align="center">OTT Content Evolution & Extremes Over Time</h3>
@@ -131,7 +131,7 @@
 </ul>
 <div align="center">
   <strong>Country-Wise Content Footprint</strong><br>
-  <img src="ott/4.gif" alt="6c" width="600" height="338">
+  <img src="ott/4.gif" alt="6c" style="width: 50%; height: auto;>
 </div>
 <p align="center">
   <table>
