@@ -23,12 +23,12 @@
 
 <h3 align="center"> Content Format Breakdown Across Platforms </h3>
 <p>This data-driven snapshot reveals how TV shows and movies compare across OTT platforms in terms of total title count, duration (in minutes), and content variety (genres). It reveals format dominance, platform focus, and distribution differences.</p>
-
+<p style="text-align: left;">
 - Visualizes how OTT platforms differ in their focus on TV shows vs. movies
 - Highlights disparities in title count, total duration, and genre richness
 - Reveals platform content priorities and variety distribution across formats
-
-<div align="center">
+</p>
+<p align="center">
   <strong>Key Metrics by Format & Platform</strong><br>
   <img src="ott/1.gif" alt="Top 5 based on Genre and Tag" style="width: 50%; height: auto; >
 </div>
@@ -36,11 +36,11 @@
 <h3 align="center">OTT Content Evolution & Extremes Over Time</h3>
 <p>This visual tracks the evolution of OTT content over the years across countries and platforms, highlighting changes in volume, duration, genre diversity, and audience ratings. It contrasts trends between TV shows and movies, showcasing shifts in platform strategies, viewer targeting, and notable extremes in runtimes.
 </p>
-
+<p style="text-align: left;">
 - Tracks volume and duration trends across years, countries, and platforms
 - Highlights format-wise shifts in content strategies over time
 - Surfaces extreme runtimes with longest and shortest content ever released
-
+</p>
 <p align="center">
   <table>
     <tr>
@@ -60,11 +60,11 @@
 
 <h2 align="center">Platform & Format Trends</h2>
 <p>These graphics provide insights into a year-specific comparison of how OTT platforms differ in content strategy-highlighting the split between TV shows and movies in terms of both the number of titles and their total duration. The graphs reveal platform-wise preferences and content load distribution across formats.</p>
-
+<p style="text-align: left;">
 - Year-specific comparison of content volume and duration by platform and format
 - Reveals platform content splits between movies and TV shows
 - Uncovers load distribution patterns and format focus across platforms
-
+</p>
 <p align="center">
   <table>
     <tr>
@@ -81,11 +81,11 @@
 </p>
 
 <P>The data visualization outlines how OTT platforms prioritize content formats over time-uncovering strategic differences in the growth of movies vs. TV shows. By isolating either a format or platform, the comparison reveals evolving trends in volume and duration, reflecting each platform’s unique content trajectory.</P>
-
+<p style="text-align: left;">
 - Visualizes platform-wise growth in series or movie output over time
 - Identifies changes in content duration and title count by platform or format
 - Highlights evolution of content preferences per platform strategy
-
+</p>
 <p align="center">
   <table>
     <tr>
@@ -102,11 +102,11 @@
 </p>
 
 <p>These visuals highlight the global distribution of content across countries, comparing how TV shows and movies are spread regionally for a selected platform or how various platforms perform within a chosen format. It reveals content concentration zones, regional preferences, and market reach across geographies.</p>
-
+<p style="text-align: left;">
 - Compares TV/movie content distribution across countries for a selected platform
 - Analyzes which regions dominate specific formats or are underserved
 - Reveals market reach and regional focus of platforms via country-wise footprint
-
+</p>
 <p align="center">
   <table>
     <tr>
@@ -124,11 +124,11 @@
 
 <h3 align="center">Regional Patterns in OTT Content Production</h3>
 <p>These figures capture how content is distributed across countries for a selected OTT platform, showcasing both the number of titles and total duration. It helps identify major content-producing or hosting regions and the depth of content offered per country.</p>
-
+<p style="text-align: left;">
 - Highlights country-wise title volume and duration for a selected platform
 - Identifies top content-producing countries across formats and genres
 - Compares depth of content contribution by region
-
+</p>
 <div align="center">
   <strong>Country-Wise Content Footprint</strong><br>
   <img src="ott/4.gif" alt="6c" style="width: 50%; height: auto;>
@@ -153,11 +153,11 @@
 <h2 align="center">Rating & Genre Trends</h2>
 
 <p>This section showcases how content ratings and genres have shifted across years on a selected OTT platform-both in terms of the number of titles released and the total duration offered. They reveal evolving viewer preferences and platform strategies in targeting content variety and maturity levels.</p>
-
+<p style="text-align: left;">
 - Tracks year-wise shifts in content ratings and genres on a selected platform
 - Measures both title count and watch time offered in each category
 - Reveals platform strategies in genre diversification and maturity targeting
-
+</p>
 <p align="center">
   <table>
     <tr>
@@ -174,11 +174,11 @@
 </p>
 
 <p>This breakdown reveals how content ratings and genres have evolved over the years, highlighting changes in volume (number of titles) and duration (total minutes) across platforms and formats. Together, they showcase shifting audience preferences and how OTT platforms have adapted their content strategies accordingly.</p>
-
+<p style="text-align: left;">
 - Compares how content ratings and genres evolved across platforms and formats
 - Highlights year-over-year changes in content mix and runtime
 - Exposes audience targeting shifts through volume-duration comparisons
-
+</p>
 <p align="center">
   <table>
     <tr>
@@ -195,11 +195,11 @@
 </p>
 
 <p>The charts below demonstrate how content duration is distributed across genres and audience ratings, either platform-wise or by format. They uncover which genres dominate in watch time and how content length varies across maturity levels, helping identify strategic content focus areas.</p>
-
+<p style="text-align: left;">
 - Shows how content duration is distributed across genres and rating categories
 - Identifies genres with highest watch time and maturity levels with longer content
 - Analyzes platform and format-specific differences in genre focus
-
+</p>
 <p align="center">
   <table>
     <tr>
@@ -220,11 +220,11 @@
 <h2 align="center">Dynamic Exploration of Streaming Trends</h2>
 
 <p>The following analysis illustrates a hierarchical breakdown of OTT content across type, genre, and rating. It enables a structured exploration of content distribution strategies, revealing platform-specific patterns and notable titles within each category.</p>
-
+<p style="text-align: left;">
 - Interactive drill-down analysis by content type, genre, and audience rating
 - Reveals detailed distribution logic behind platform content strategies
 - Highlights standout titles under each category path for deeper exploration
-
+</p>
 <p align="center">
   <table>
     <tr>
