@@ -263,3 +263,10 @@
 <p>
 This OTT Analytics Dashboard provides a comprehensive overview of content trends across major streaming platforms. By breaking down data by content type, genre, rating, country, and year, it uncovers meaningful insights into platform strategies, audience targeting, and evolving content patterns. From identifying peak content durations to comparing genre diversity and regional distributions, this analysis empowers stakeholders to make informed, data-driven decisions in the dynamic landscape of digital entertainment.
 </p>
+
+***
+
+This project is licensed under the [Creative Commons License](LICENSE).
+
+***
+
